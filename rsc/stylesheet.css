@@ -1,0 +1,45 @@
+/*Project Styling*/
+.root* {
+	-fx-background-color: seashell;
+	
+}
+
+.list-view {
+    -fx-border-color: black;
+}
+
+.text-area {
+    -fx-border-color: black;
+}
+
+
+/*Pane's Styling */
+.create-student-profile-pane {
+	-fx-padding: 20;
+	-fx-alignment: center;
+	-fx-vgap: 15;
+	-fx-hgap: 20;
+}
+		
+.module-selection-pane {
+	-fx-padding: 20;
+	-fx-alignment: center;
+	-fx-hgap: 20;
+}
+
+.module-reservation-pane {
+	-fx-padding: 20;
+}
+
+.overview-pane {
+	-fx-padding: 20;
+	-fx-vgap: 30;
+	-fx-hgap: 15;
+	-fx-alignment: center;
+}
+
+
+
+
+
+
